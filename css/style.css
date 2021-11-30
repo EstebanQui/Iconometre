@@ -1,0 +1,54 @@
+.formulaire {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon {
+    min-width: 10em;
+    min-height: 10em;
+}
+
+div.title {
+    background-color: lightseagreen;
+}
+
+.content {
+    text-align: center;
+}
+
+.title_ques {
+    font-size: 1.5em;
+}
+
+.question {
+    list-style: none;
+}
+
+.ntx_question {
+    margin-left: 10px;
+}
+
+.glyphicon{
+    font-size: 30px;
+    color: white;
+    margin-top: 8px;
+    margin-left: 2px;
+}
+
+.pager {
+    text-align: left;
+    margin-top: 3px;
+}
+
+.pager li a{
+    border: 0;
+}
+
+.indication {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+}
+
+.explicatif {
+    margin-top: 20%;
+}
